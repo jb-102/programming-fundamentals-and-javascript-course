@@ -51,6 +51,13 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 
 ---
 
+## Delivery Mode
+- Online (G Meet, Skype, Zoom)
+- Weekly sessions
+- 1 to 2 Hours per session
+
+---
+
 ## Instructor Info
 - Software Engineer @ Shell
 - 8+ Years of Industry Experience
@@ -61,7 +68,7 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 
 ## Interested in enrolling?
 - Please use the below link to express your interest.
-- Join the ["Programming Fundamentals and JavaScript" Course Interest Form!](https://hy2iev7smre.typeform.com/to/Ln8UAZMB?utm_source=xxxxx)
+- ["Programming Fundamentals and JavaScript Course" Interest Form!](https://forms.gle/MyRPCVYgVqfSYZ357)
 
 ---
 
