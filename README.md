@@ -64,5 +64,8 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 ## Start Your Learning Journey Today!
 Empower yourself with the skills to build robust, scalable, and secure software solutions.
 
-> **Note:** Some topics may not cover all aspects mentioned.
+---
 
+> **⚠️ Important Note:**  
+> _Some topics may not cover all aspects mentioned._  
+> This is to ensure that we focus on core principles and foundational concepts to help you build a solid understanding.
