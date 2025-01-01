@@ -19,17 +19,23 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 ### 2. JavaScript Understanding:
 - Core JavaScript concepts like syntax, variables, data types, and control statements.
 - Understanding JavaScript's asynchronous nature: event loops, promises, and async/await.
-- Advanced topics like prototypes, closures, classes, and modules.
 - ES6+ features for modern JavaScript development.
+- Advanced topics like prototypes, closures, classes, and modules.**
 
 ### 3. Hands-On Experience:
-- Build small projects to apply your learning.
-- Debugging and performance optimization techniques.
-- Explore DOM manipulation, fetch API, and real-world event handling.
+- Build concise projects to apply your learning.
+- Debugging and performance optimization techniques.**
+- Explore DOM manipulation, fetch API, and real-world event handling.**
 
 ### 4. Expand Your Horizon:
-- Introduction to advanced topics like TypeScript, state management, and performance optimization.
+- Introduction to advanced topics like TypeScript, state management, and performance optimization.**
 - Insights into secure coding practices and clean architecture.
+
+---
+
+> **⚠️ Important Note:**  
+> _Some topics may not cover all aspects mentioned._  
+> This is to ensure that we focus on core principles and foundational concepts to help you build a solid understanding.
 
 ---
 
@@ -64,8 +70,3 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 ## Start Your Learning Journey Today!
 Empower yourself with the skills to build robust, scalable, and secure software solutions.
 
----
-
-> **⚠️ Important Note:**  
-> _Some topics may not cover all aspects mentioned._  
-> This is to ensure that we focus on core principles and foundational concepts to help you build a solid understanding.
