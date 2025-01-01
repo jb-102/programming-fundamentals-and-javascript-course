@@ -34,7 +34,7 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 ---
 
 > **⚠️ Important Note:**  
-> _Some topics may not cover all aspects mentioned._  
+> **_Some topics may not cover all aspects mentioned._  
 > This is to ensure that we focus on core principles and foundational concepts to help you build a solid understanding.
 
 ---
