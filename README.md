@@ -7,6 +7,7 @@ This repository contains the overview and curriculum for the "Programming Fundam
 ### Overview:
 Dive into the world of programming and JavaScript with this comprehensive course designed for beginners and aspiring developers. Learn the essential concepts, tools, and techniques to solve real-world problems and build modern applications.
 
+For detailed course curriculum, please refer to the [curriculum.md](./curriculum.md) file.
 ---
 
 ## What You’ll Learn:
