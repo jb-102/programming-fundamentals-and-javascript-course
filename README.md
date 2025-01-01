@@ -1,6 +1,4 @@
-This repository contains the overview and curriculum for the "Programming Fundamentals and JavaScript" course. It covers essential programming concepts, algorithms, data structures, and core JavaScript principles, designed for beginners and aspiring developers to build a strong foundation.
-
-## Course Title: Programming Fundamentals and JavaScript
+# Course Title: Programming Fundamentals and JavaScript
 
 ### Overview:
 Dive into the world of programming and JavaScript with this comprehensive course designed for beginners and aspiring developers. Learn the essential concepts, tools, and techniques to solve real-world problems and build modern applications.
