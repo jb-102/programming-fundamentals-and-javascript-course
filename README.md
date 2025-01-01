@@ -43,6 +43,26 @@ For detailed course curriculum, please go to the [Curriculum](./curriculum.md).
 ## Why This Course?
 - Structured content with practical examples and exercises.
 - Industry-relevant knowledge for immediate application.
-- Designed and delivered by an experienced software engineer with a passion for teaching.
+- Designed and delivered by an experienced software engineer passionate about teaching.
 
 ---
+
+## Instructor Info
+- Software Engineer @ Shell
+- 8+ Years of Industry Experience
+- Passionate about teaching
+- Contact: iambhatjunaid@gmail.com
+
+---
+
+## Interested in enrolling?
+- Please use the below link to express your interest.
+- Join the ["Programming Fundamentals and JavaScript" Course Interest Form!](https://hy2iev7smre.typeform.com/to/Ln8UAZMB?utm_source=xxxxx)
+
+---
+
+## Start Your Learning Journey Today!
+Empower yourself with the skills to build robust, scalable, and secure software solutions.
+
+> **Note:** Some topics may not cover all aspects mentioned.
+
