@@ -40,7 +40,7 @@
   - Examples of languages in each category.
 
 ### 3. Internet and Networking Basics
-- **Internet Essentials**: IP, TCP/IP, WWW.
+- **Internet Essentials**: www, IP, TCP/IP.
   - How devices communicate over the internet.
   - Difference between IPv4 and IPv6.
 - **Protocols**: HTTP/HTTPS, TLS/SSL.
